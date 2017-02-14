@@ -1,0 +1,1 @@
+Anaconda多环境多版本python配置指导 http://www.jianshu.com/p/d2e15200ee9b
